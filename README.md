@@ -95,7 +95,7 @@ Files under `results/Not use/` are archived data outside the reliable period and
 
 | Package | Version | Description |
 |---|---|---|
-| `dash` | 3.3.0 | Webs erver for interactive dashboards |
+| `dash` | 3.3.0 | Webs server for interactive dashboards |
 | `numpy` | 2.3.5 | Numerical computations (median, min, max) |
 | `plotly` | 6.5.0 | Interactive charting |
 | `python-dateutil` | 2.9.0.post0 | Timestamp parsing |
