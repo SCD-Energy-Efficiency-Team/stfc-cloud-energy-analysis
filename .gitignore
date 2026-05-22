@@ -1,0 +1,3 @@
+.env.opensearch
+__pycache__/
+*.pyc
