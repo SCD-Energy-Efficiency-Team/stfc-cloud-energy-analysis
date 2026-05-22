@@ -1,4 +1,4 @@
-# IrisCast — OpenSearch Energy Analysis
+# STFC Cloud IrisCast — Energy Analysis
 Tools for querying STFC Cloud - IPMI power data from an OpenSearch cluster, aggregating energy usage per hypervisor host and model, and producing Plotly visualisations.
 
 ## Project structure
