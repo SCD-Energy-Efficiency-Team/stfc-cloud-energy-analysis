@@ -1,7 +1,7 @@
 # (IrisCast) STFC Cloud  — Energy Analysis
 Tools for querying STFC Cloud - IPMI power data from an OpenSearch cluster, aggregating energy usage per hypervisor host and model, and producing Plotly visualisations.
 
-<img width="1004" height="184" alt="energy_analysis_pipeline" src="https://github.com/user-attachments/assets/8158fdfe-36db-4ff4-bc35-a13585ccb95c" />
+<img width="5850" height="1046" alt="energy_analysis_pipeline1" src="https://github.com/user-attachments/assets/89cfb530-fb93-4805-a757-ac9747233b76" />
 
 <img width="2389" height="992" alt="Screenshot 2026-04-14 133834" src="https://github.com/user-attachments/assets/b5e9a052-7f3c-4864-8c51-6997ca8372f8" />
 
